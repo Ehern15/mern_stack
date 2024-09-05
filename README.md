@@ -1,0 +1,4 @@
+Prerequisites: 
+-MongoDB
+-NodeJS
+-NPM
